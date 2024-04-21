@@ -1,4 +1,4 @@
-//Calcule el número de días que alguien ha vivido tomando en cuenta su fecha de nacimiento
+//7. Calcule el número de días que alguien ha vivido tomando en cuenta su fecha de nacimiento
 function calcularDiasVividos(fechaNacimiento) {
     let fechaNac = new Date(fechaNacimiento);
     let fechaActual = new Date();

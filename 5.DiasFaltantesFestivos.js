@@ -1,4 +1,4 @@
-//Calcule los días que faltan para día de muertos y navidad
+//5. Calcule los días que faltan para día de muertos y navidad
 function calcularDiasParaEvento(evento) {
     let hoy = new Date();
     let eventoFecha;

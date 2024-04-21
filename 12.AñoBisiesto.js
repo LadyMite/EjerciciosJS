@@ -1,4 +1,4 @@
-//Reciba un año y te responda si es o no es bisiesto.
+//12. Reciba un año y te responda si es o no es bisiesto.
 
 function esBisiesto(anio) {
     // Un año es bisiesto si es divisible por 4 pero no por 100, o si es divisible por 400
@@ -8,7 +8,7 @@ function esBisiesto(anio) {
 let anio = 2000;
 
 if (esBisiesto(anio)) {
-    console.log(`${anio} es un año bisiesto.`);
+    console.log(`${anio}    Es un año bisiesto.`);
 } else {
-    console.log(`${anio} no es un año bisiesto.`);
+    console.log(`${anio} No es un año bisiesto.`);
 }

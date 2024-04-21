@@ -1,4 +1,4 @@
-//Valide si una palabra o frase es palíndromo.
+//11. Valide si una palabra o frase es palíndromo.
 function esPalindromo(texto) {
     texto = texto.toLowerCase().replace(/[^a-z0-9]/g, '');
     let textoInvertido = texto.split('').reverse().join('');

@@ -1,4 +1,4 @@
-//Calcule el área de un triangulo
+//8. Calcule el área de un triangulo
 let base = 10;
 let altura = 20;
 

@@ -1,4 +1,4 @@
-//Ordene 5 números de menor a mayor
+//2. Ordene 5 números de menor a mayor
 let numeros = [5, 3, 1, 4, 2];
 numeros.sort((a, b) => a - b);
 console.log(numeros);
